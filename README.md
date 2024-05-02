@@ -1,6 +1,3 @@
-# SHIROBYTE BASED PROJECT
-
-
 ## THEME
 AdminLTE 2.3.4 is a popular open source WebApp template for admin dashboards and control panels. 
 It is a responsive HTML template that is based on the CSS framework Bootstrap 3
